@@ -148,6 +148,5 @@ $Html = "<!DOCTYPE html>
         AnchorTag.href = 'index.html';
         AnchorTag.setAttribute('download','index.html');
         AnchorTag.click();
-        window.location.href = 'index.html';
         </script>";
 ?>
