@@ -1,0 +1,12 @@
+/*
+infiniteslide.js v2
+version: 2.0.1
+Author: T.Morimoto
+
+Copyright 2017, T.Morimoto
+* Free to use and abuse under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+
+https://github.com/woodroots/infiniteslidev2
+*/
+!function(n){n(window).on("load",function(){window.loaded=!0}),n(function(){n.fn.infiniteslide=function(e){var t=n.extend({speed:100,direction:"left",pauseonhover:!0,responsive:!1,clone:1},e),o=function(e,i){if("up"==i||"down"==i)var t=(h=0,n(e).children(":not(.infiniteslide_clone)").each(function(e,i){h+=n(this).outerHeight(!0)}),h);else t=(w=0,n(e).children(":not(.infiniteslide_clone)").each(function(e,i){w+=n(this).outerWidth(!0)}),w);return t},a=function(n,e){if("up"==e||"down"==e)var i="0,-"+n+"px,0";else i="-"+n+"px,0,0";return i};return this.each(function(e,r){var s=n(this),l=Date.now()+Math.floor(1e4*Math.random()).toString(16);1==t.pauseonhover&&n(s).on("mouseenter",function(){n(this).css({animationPlayState:"paused"})}).on("mouseleave",function(){n(this).css({animationPlayState:"running"})});var d=function(){!function(e,i){if(n(e).wrap('<div class="infiniteslide_wrap"></div>').parent().css({overflow:"hidden"}),"up"==i||"down"==i)var t="column";else t="row";n(e).css({display:"flex",flexWrap:"nowrap",alignItems:"center","-ms-flex-align":"center",flexDirection:t}).children().css({flex:"none",display:"block"})}(s,t.direction),function(e,t){var o=n(e).children().clone().addClass("infiniteslide_clone");for(i=1;i<=t;)o.clone().appendTo(n(e)),i++}(s,t.clone),function(e,i,t,r){var s=o(e,t);"up"!=t&&"down"!=t||n(e).parent(".infiniteslide_wrap").css({height:s+"px"});var l=a(s,t);n(e).attr("data-style","infiniteslide"+i);var d,c,f="@keyframes infiniteslide"+i+"{from {transform:translate3d(0,0,0);}to {transform:translate3d("+l+");}}";if(n("<style />").attr("id","infiniteslide"+i+"_style").html(f).appendTo("head"),"right"==t||"down"==t)var u=" reverse";else u="";n(e).css({animation:"infiniteslide"+i+" "+(d=s,c=r,d/c)+"s linear 0s infinite"+u})}(s,l,t.direction,t.speed),t.responsive&&n(window).on("resize",function(){var e,i,r,l=(e=s,i=t.direction,r=o(e,i),a(r,i)),d=s.attr("data-style"),c=n("#"+d+"_style").html().replace(/to {transform:translate3d\((.*?)\)/,"to {transform:translate3d("+l+")");n("#"+d+"_style").html(c)})};window.loaded?d():n(window).on("load",d)})}})}(jQuery);
