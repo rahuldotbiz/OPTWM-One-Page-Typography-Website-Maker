@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="description" content="One page websitein few seconds">
-  <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/ico">
 
   <meta property="og:title" content="OPTWM" />
   <meta property="og:description" content="Create Your Personal One Pager in a Few Clicks" />
