@@ -250,7 +250,7 @@
                   <option value="worksans">Work Sans</option>
                 </optgroup>
               </select>
-              <div class="settings-dropdown-arrow"><span>â€º</span></div>
+              <div class="settings-dropdown-arrow"><span>⏫</span></div>
             </div>
           </label>
 
