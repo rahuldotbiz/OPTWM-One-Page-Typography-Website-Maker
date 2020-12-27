@@ -38,7 +38,7 @@ $(document).ready(function() {
   });
 
 
-  var standardtext = "Hereâ€™s a new paragraph.";
+  var standardtext = "Here's a new paragraph.";
 
   // add paragraph
   $('.editcontent-button-addp').on('click', function() {
@@ -666,7 +666,7 @@ $(document).ready(function() {
     if (!$(this).val()) {
     }
 
-    else if ($(this).val() == 'built with temper') {
+    else if ($(this).val() == 'built with ♥') {
     }
 
     else {
@@ -682,8 +682,7 @@ $(document).ready(function() {
     function appendWatermark() {
       $('.watermark').remove();
       var fontsize = $('.form-appearance-fontsize').val();
-      // $('.text').append('<p class="watermark" style="font-size: '+fontsize/2+'vw; animation-delay:'+(delay+1)/10+'s">built with temper</p>');
-      $('.text').append('<p class="watermark" style="font-size: '+fontsize/2+'vw; line-height: '+fontsize/2+'vw;">built with temper</p>');
+      $('.text').append('<p class="watermark" style="font-size: '+fontsize/2+'vw; line-height: '+fontsize/2+'vw;">built with ♥</p>');
     }
 
     appendWatermark();
