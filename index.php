@@ -22,7 +22,6 @@
 
   <link class="googlefont" href="#" rel="stylesheet">
 
-  <link rel="stylesheet" type="text/css" href="css/scope.php">
   <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 
   <script type="text/javascript">
