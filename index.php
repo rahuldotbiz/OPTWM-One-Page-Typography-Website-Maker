@@ -182,7 +182,7 @@
               <span>Your sites title</span>
             </div>
             <div class="settings-part-right">
-              <input type="input" class="form-appearance-title settings-textinput" name="form-title" value="John Doe" />
+              <input type="input" class="form-appearance-title settings-textinput" name="form-title" value="Rahul" />
             </div>
           </label>
 
