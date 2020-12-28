@@ -4,14 +4,14 @@
   <title>OPTWM</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <meta name="description" content="One page websitein few seconds">
+  <meta name="description" content="One page website in few seconds">
   <link rel="shortcut icon" href="/images/favicon.ico" type="image/ico">
 
   <meta property="og:title" content="OPTWM" />
-  <meta property="og:description" content="Create Your Personal One Pager in a Few Clicks" />
+  <meta property="og:description" content="One page website in few seconds" />
   <meta property="og:url" content="https://" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="" />
+  <meta property="og:image" content="/images/card.png" />
   <meta property="og:image:width" content="1074" />
   <meta property="og:image:height" content="630" />
 
