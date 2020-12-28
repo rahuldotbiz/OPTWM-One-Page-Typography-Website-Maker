@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="description" content="One page website in few seconds">
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/ico">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+  <link rel="icon" type="images/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="images/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="manifest" href="/images/site.webmanifest">
 
   <meta property="og:title" content="OPTWM" />
   <meta property="og:description" content="One page website in few seconds" />
