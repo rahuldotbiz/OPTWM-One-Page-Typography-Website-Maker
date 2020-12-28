@@ -9,7 +9,7 @@
 
   <meta property="og:title" content="OPTWM" />
   <meta property="og:description" content="One page website in few seconds" />
-  <meta property="og:url" content="https://" />
+  <meta property="og:url" content="https://optwm.herokuapp.com" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="/images/card.png" />
   <meta property="og:image:width" content="1074" />
