@@ -1,3 +1,6 @@
+
+> as heroku goes paid, the link will not work, you can still clone and use this.
+
 <h1 align="center">Welcome to OPTWM - One Page Typography Website Maker 👋</h1>
 <a href="https://optwm.herokuapp.com" targt="_blank">
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1609128503817/I22ddfpfM.png">
