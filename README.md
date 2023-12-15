@@ -6,8 +6,8 @@
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1609128503817/I22ddfpfM.png">
 </a>
 <p>
-  <a href="https://twitter.com/rahxul" target="_blank">
-    <img alt="Twitter: rahxul" src="https://img.shields.io/twitter/follow/rahxul.svg?style=social" />
+  <a href="https://twitter.com/rahuldotbiz" target="_blank">
+    <img alt="Twitter: rahuldotbiz" src="https://img.shields.io/twitter/follow/rahxul.svg?style=social" />
   </a>
 </p>
 
