@@ -21,11 +21,11 @@
 👤 **Rahul**
 
 * Website: https://blog.rahulism.co
-* Twitter: [@rahxul](https://twitter.com/rahxul)
-* Github: [@rahxuls](https://github.com/rahxuls)
+* Twitter: [@rahul_wip](https://twitter.com/rahul_wip)
+* Github: [@rahuldotbiz](https://github.com/rahuldotbiz)
 
 ## Show your support
-<a href="https://www.buymeacoffee.com/rahxuls" target="_blank"> 
+<a href="https://www.buymeacoffee.com/rahuldotbiz" target="_blank"> 
 <img src="https://res.cloudinary.com/rahulism1/image/upload/v1608182430/bmc_nbxakd.png"></a>
 
 Give a ⭐️ if you loved this project!
