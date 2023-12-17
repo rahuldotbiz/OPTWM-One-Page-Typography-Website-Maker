@@ -307,7 +307,7 @@
     <br/>
 
     <div class="settings-info">
-      This tool is created by <a href="http://blog.rahulism.co" target="_blank">Rahul</a> for the ultimate <a href="htts://hahsnode.com">Hashnode's hackathon</a>. It is free to use for you. You can contact me via <a href="mailto:gamerrahul69@gmail.com">email</a> or <a href="http://twitter.com/rahxul" target="_blank">Twitter</a>.
+      This tool is created by <a href="http://rahul.biz" target="_blank">Rahul</a> for the ultimate <a href="htts://hahsnode.com">Hashnode's hackathon</a>. It is free to use for you. You can contact me via <a href="mailto:gamerrahul69@gmail.com">email</a> or <a href="http://twitter.com/rahxul" target="_blank">Twitter</a>.
     </div>
   </div>
 
