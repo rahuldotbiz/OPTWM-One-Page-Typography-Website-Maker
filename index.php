@@ -13,15 +13,15 @@
 
   <meta property="og:title" content="OPTWM" />
   <meta property="og:description" content="One page website in few seconds" />
-  <meta property="og:url" content="https://optwm.herokuapp.com" />
+  <meta property="og:url" content="https://optwm-586f341318ce.herokuapp.com/" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://res.cloudinary.com/rahulism1/image/upload/v1609124354/card_wbe0yy.png" />
   <meta property="og:image:width" content="1074" />
   <meta property="og:image:height" content="630" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@rahxul" />
-  <meta name="twitter:creator" content="@rahxul" />
+  <meta name="twitter:site" content="@rahul_wip" />
+  <meta name="twitter:creator" content="@rahul_wip" />
   <meta name="twitter:image" content="https://res.cloudinary.com/rahulism1/image/upload/v1609124354/card_wbe0yy.png" />
 
   <link class="googlefont" href="#" rel="stylesheet">
