@@ -6,7 +6,7 @@
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1609128503817/I22ddfpfM.png">
 </a>
 <p>
-  <a href="https://twitter.com/rahuldotbiz" target="_blank">
+  <a href="https://twitter.com/rahul_wip" target="_blank">
     <img alt="Twitter: rahuldotbiz" src="https://img.shields.io/twitter/follow/rahxul.svg?style=social" />
   </a>
 </p>
